@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://i.ibb.co/RCYkvbq/2.jpg",
+        "chef_name": "Mohammad Amzadul Islam",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 10000
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://i.ibb.co/2dpn6x2/Whats-App-Image-2022-02-28-at-11-50-10-PM.jpg",
+        "chef_name": "Muhammad Tareq Rahman",
+        "years_of_experience": 5,
+        "number_of_recipes": 20,
+        "likes": 5000
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://i.ibb.co/7jr7jdW/IMG-20210310-192244.jpg",
+        "chef_name": "M E H Rahi",
+        "years_of_experience": 15,
+        "number_of_recipes": 100,
+        "likes": 15000
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://i.ibb.co/zSfLWVD/IMG-75-83-copy.jpg",
+        "chef_name": "Shaidur Rahman Sabbir",
+        "years_of_experience": 8,
+        "number_of_recipes": 30,
+        "likes": 7500
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://i.ibb.co/yQLW909/188427.jpg",
+        "chef_name": "Hossain Al Asiful Arfin",
+        "years_of_experience": 3,
+        "number_of_recipes": 10,
+        "likes": 2500
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://i.ibb.co/PC6Wg7v/atik.jpg",
+        "chef_name": "Atikul Islam",
+        "years_of_experience": 12,
+        "number_of_recipes": 70,
+        "likes": 12000
+    }
+]
